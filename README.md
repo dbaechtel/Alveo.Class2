@@ -9,3 +9,5 @@
 **GBPUSD.M15.Bar.UTC.csv** - GBP/USD M15 Historical Ber data from TickStory Lite.
 
 **HistoricalData.cs** - C# class to load Forex Historical data from a CSV file exported by TickStory Lite.
+
+
