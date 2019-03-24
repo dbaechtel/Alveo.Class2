@@ -4,7 +4,7 @@
 
 **Alveo Class 2 Video files** - split Zip files of 3 hour video recoding.
 
-**pdf_js.pak** - file needed for Building ALveo software. Should be placed in C:\Program Files (x86)\Alveo directory.
+**pdf_js.pak** - file needed for Building Alveo software. Should be placed in C:\Program Files (x86)\Alveo directory.
 
 **GBPUSD.M15.Bar.UTC.csv** - GBP/USD M15 Historical Ber data from TickStory Lite.
 
