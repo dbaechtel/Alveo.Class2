@@ -13,3 +13,4 @@
 **HistoricalData.cs** - C# class to load Forex Historical data from a CSV file exported by TickStory Lite.
 
 **HMA3 GBP_USD M15.png** - Picture of HMA3 Indicator
+
