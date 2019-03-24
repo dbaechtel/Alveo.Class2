@@ -6,7 +6,7 @@
 
 **pdf_js.pak** - file needed for Building Alveo software. Should be placed in C:\Program Files (x86)\Alveo directory.
 
-**GBPUSD.M15.Bar.UTC.csv** - GBP/USD M15 Historical Ber data from TickStory Lite.
+**GBPUSD.M15.Bar.UTC.csv** - GBP/USD M15 Example Historical Bar data from TickStory Lite.
 
 **Pip Value.csv** - Data file containing the Pip values in USD for currency pairs on 1/25/2019 for Risk calculation
 
